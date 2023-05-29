@@ -25,7 +25,7 @@ function setup() {
 
   leftBoundary = createSprite(0, 0, 100, 800);
 
-  leftBoundary.invisible = false;
+  leftBoundary.visible = false;
 
 
   rightBoundary = createSprite(410, 0, 100, 800);
